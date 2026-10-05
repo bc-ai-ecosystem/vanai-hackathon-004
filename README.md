@@ -1,3 +1,5 @@
+> **Moved 2026-10-04 (import done; do not archive until source PR #3 is closed/merged).** Canonical copy lives in the kk-kb monorepo at [`content/projects/01-vancouver-ai-community/special-features/hackathons/rival-2024-2025/round-4-music/vanai-hackathon-004/`](https://github.com/WalksWithASwagger/kk-kb/tree/main/content/projects/01-vancouver-ai-community/special-features/hackathons/rival-2024-2025/round-4-music/vanai-hackathon-004) (source commit `3cd45ed7bf74`). Large media is in private Drive — see PROVENANCE.md there. This repo stays open for PR #3.
+
 # Vancouver AI Hackathon Round 4: The Soundtrack of Us
 
 ## 🎵 What This Is
